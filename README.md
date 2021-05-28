@@ -2,7 +2,7 @@
 Data source: [Disneyland Reviews](https://www.kaggle.com/arushchillar/disneyland-reviews)
 
 # Introduction
-This data set consisted of Disneyland reviews for three separate branches of Disneyland, those being Paris, Hong Kong, and California. I was tasked with creating a dashboard that explored the dataset and showed any interesting findings. For this project I used Tableau
+This data set consisted of Disneyland reviews for three separate branches of Disneyland, those being Paris, Hong Kong, and California. I was tasked with creating a dashboard that explored the dataset and showed any interesting findings. For this project I used Tableau.
 # Walkthrough
 
 ![Disneyland Chart](./assets/dashboard.jpg)
